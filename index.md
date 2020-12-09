@@ -1,6 +1,6 @@
 ## Starboard Blog
 
-[Starboard X](https://starboardops.github.io/blog/x/index)<br>
+[Starboard X is here](https://starboardops.github.io/blog/x/index)<br>
 ![Starboard X thumbnail](https://github.com/starboardops/blog/blob/gh-pages/starboardx.png?raw=true)
 
 [Starboard <3 ARM](https://starboardops.github.io/blog/armsupport/index)<br>
