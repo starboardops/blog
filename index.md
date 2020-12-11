@@ -1,5 +1,8 @@
 ## Starboard Blog
 
+[Reducing Carbon issues with Starboard](https://starboardops.github.io/blog/reducingcarbonissues/index)
+![Starboard <3 Earth](https://github.com/starboardops/blog/blob/gh-pages/stloveearth.png?raw=true)
+
 [Starboard X is here](https://starboardops.github.io/blog/x/index)<br>
 ![Starboard X thumbnail](https://github.com/starboardops/blog/blob/gh-pages/starboardx.png?raw=true)
 
