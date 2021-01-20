@@ -20,7 +20,7 @@ Third, Starboard Liquid **WILL** support ARM along with other arches. We will **
 to capacity.
 <br><br>
 
-<br><hr>
+<br>
 **Thanks,**<br>
 2qbruh
 
